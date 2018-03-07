@@ -6,4 +6,4 @@
 - [SOLOLEARN](https://www.sololearn.com/Course/PHP/) - PHP Tutorial.
 - [phpbuddy](http://www.phpbuddy.com/) - learn php programming.
 - [php-mysql](http://coursesweb.net/php-mysql/) - Key concepts.
-- [php Skills] (https://laracasts.com/skills/php) - Overall Learning.
+- [php Skills](https://laracasts.com/skills/php) - Overall Learning.
